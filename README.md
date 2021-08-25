@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/eliHC">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=eliHC&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&bg_color=DEG,000814,003566,000814"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliHC&layout=compact&langs_count=7&theme=prussian&bg_color=DEG,000814,003566,000814"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=eliHC&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&bg_color=DEG,000814,001D3D,000814"/>
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliHC&layout=compact&langs_count=7&theme=prussian&bg_color=DEG,000814,001D3D,000814"/>
 </div>
 
 <div style="display: inline_block" align = center><br>
