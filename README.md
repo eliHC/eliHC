@@ -2,7 +2,7 @@
 ### I am Eli, nice to meet you! 👋
 
 - 🌎 I currently live in Brazil.
-- 💻 Studying web development at @Trybe.
+- 💻 Studying Full Stack Development at @Trybe.
 - 😄 He/Him
 
 <div align=center>
