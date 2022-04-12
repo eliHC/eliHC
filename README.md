@@ -1,13 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hello+friend!)](https://git.io/typing-svg)
-### I am Eli, nice to meet you! 👋
-
-- 🌎 I currently live in Brazil.
-- 💻 Studying Full Stack Development at [Trybe](https://www.betrybe.com/).
-- 😄 He/Him
 
 <div align=center>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&lines=Hello+friend!)](https://git.io/typing-svg)
+
+</div>
+
+<div align=center>
+  
+### I am Eli, nice to meet you! 👋
+
+🌎 I currently live in Brazil.
+💻 Studying Full Stack Development at [Trybe](https://www.betrybe.com/).
+
+</div>
+  
+<div align=center>
   <a href="https://github.com/eliHC">
-  <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api?username=eliHC&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&border_color=003566&border_radius=3&bg_color=DEG,000814,001D3D,000814"/>
   <img height="180em" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliHC&layout=compact&langs_count=7&theme=prussian&border_color=003566&border_radius=3&bg_color=DEG,000814,001D3D,000814"/>
 </div>
 
