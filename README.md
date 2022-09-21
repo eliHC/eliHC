@@ -1,6 +1,8 @@
 
 <div align=center>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12178207492&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=12178207492&redirect=true)
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&lines=Hello+friend!)](https://git.io/typing-svg)
 
 </div>
