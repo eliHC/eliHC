@@ -9,7 +9,7 @@
   
 ### I am Eli, nice to meet you! 👋
 
-🌎 I currently live in Brazil and work as a Software Engineer at [CERC S.A](https://www.cerc.inf.br/). 💻
+🌎 I currently live in Brazil and work as a Software Engineer at [CERC S.A](https://careers-meli.mercadolibre.com). 💻
 
 </div>
 <div align=center>
