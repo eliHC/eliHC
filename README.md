@@ -11,7 +11,7 @@
   
 ### I am Eli, nice to meet you! 👋
 
-🌎 I currently live in Brazil and work as a Software Engineer at [Mercado Livre](https://careers-meli.mercadolibre.com). 💻
+🌎 I currently live in Brazil and work as a Software Developer at [Mercado Livre](https://careers-meli.mercadolibre.com). 💻
 
 </div>
 <div align=center>
